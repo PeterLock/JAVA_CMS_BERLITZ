@@ -9,5 +9,5 @@ Search SQL DB Active-Working.
 DB contains sample data fields.
 Import SQL DB/Export DB working/Serialized Files.
 SQL Prepared Statements.
-Dynamically loaded comboboxes.
+Dynamically loaded listboxes.
 Front to End developed.
